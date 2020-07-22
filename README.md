@@ -13,7 +13,7 @@
 This is a webserver which hosts an answer tool for Dr frost maths. It will go through a question URL and ouput the answers to all the questions.
 
 ## Screenshots
-![Example screenshot](./screenshot.jpg)
+![Example screenshot](https://github.com/Jacrac04/DFMAnswerTool/blob/master/Screenshot.JPG)
 
 ## Setup
 ### Linux
