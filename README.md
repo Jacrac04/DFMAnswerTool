@@ -13,7 +13,7 @@
 This is a webserver which hosts an answer tool for Dr frost maths. It will go through a question URL and ouput the answers to all the questions.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./screenshot.jpg)
 
 ## Setup
 ### Linux
