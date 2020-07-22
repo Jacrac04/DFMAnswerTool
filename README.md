@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Screenshots and Examples](#screenshots-and-examples)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -12,7 +12,8 @@
 ## General info
 This is a webserver which hosts an answer tool for Dr frost maths. It will go through a question URL and output the answers to all the questions.
 
-## Screenshots
+## Screenshots and Examples
+This can be used [here](http://Frosttool.mooo.com:8000)
 ![Example screenshot](https://github.com/Jacrac04/DFMAnswerTool/blob/master/Screenshot.JPG?raw=true)
 
 ## Setup
