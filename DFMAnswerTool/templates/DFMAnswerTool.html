@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <h1>Welcome To Dr Frost Bot</h1>
+    <p class="lead">Welcome. To use enter your DR Forst login then the full question URL. Then click submit and it will take a minute or two loading then it will return the answers.</p>
+	<form action="" method="POST">
+    <div class="form-group">
+      <label>DR Frost Email</label>
+      <input type="text" name="username" class="form-control" value={{request.form.username}}>
+    </div>
+    <div class="form-group">
+      <label>DR Frost Password</label>
+      <input type="password" name="password" class="form-control" value={{request.form.password}}>
+    </div>
+	<div class="form-group">
+		<label>DR Frost Question URL</label>
+		<input type="text" name="quest" class="form-control" value={{request.form.quest}}>
+	</div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+      
+    
+  </div>
+{% endblock %}

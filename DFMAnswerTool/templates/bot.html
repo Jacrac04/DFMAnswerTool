@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    <h1>Dr Frost Bot</h1>
+    <p class="lead">Enter Question URL</p>
+	<form action="" method="POST">
+    <div class="form-group">
+      <label>Question URL</label>
+      <input type="text" name="quest" class="form-control" value={{request.form.quest}}>
+	  <label>Delay in seconds</label>
+      <p>Must be admin </p>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+      
+    
+  
+{% endblock %}
