@@ -2,7 +2,7 @@
 # DFM Answer Tool
 
 ## Depreciated 
-### This no longer works. I am taking a break from working on this. Contact me if you want to take the project over.
+### This no longer works. I am working on a new version. Contact me if you want to take the project over. 
 
 ## Table of contents
 * [General info](#general-info)
